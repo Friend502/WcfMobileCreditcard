@@ -57,6 +57,146 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <None Include="Web References\getmypsb\Client3GPrice.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\Client3GProvider.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientActiveRegister.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientAdvertise.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientBankaccountReturn.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientEasyPassPrice.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientFacebookPrice.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\Clientfaq.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientfaqDetail.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientfaqHeader.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientFee.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientGamePrice.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientGameProvider.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientgetCountryCode.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientgetVerificationCode.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientgplayPrice.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientHistory.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientInsert3G.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientInsertFacebook.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientInsertGame.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientInsertgplay.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientInsertiTune.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientInsertMypsbTransaction.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientInsertSkype.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientInsertSMS.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientInsertTopup.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientInsertTopupWithTransID.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientiTunePrice.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientlSmsService.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientMobileCheckOperator.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientMobileOperatorCompareWithPSBType.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientMyPSBChannel.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientMyPSBFacebookChannel.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientSkypePackage.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientSkypePrice.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientSMSPackage.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientSMSPrice.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientTopupPrice.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientTopupProvider.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClienttranType.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientWhatsale.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientWithdrawBalanceReturn.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\ClientWithdrawReturn.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\getmypsb.wsdl" />
+    <None Include="Web References\getmypsb\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\getmypsb\returnPostpaidConfirm.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\getmypsb\returnPostpaidRequest.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
     <None Include="Web References\get_ws_dtacReference\get_ws_dtac.wsdl" />
     <None Include="Web References\get_ws_dtacReference\Reference.map">
       <Generator>MSDiscoCodeGenerator</Generator>
@@ -70,7 +210,10 @@
     </None>
     <None Include="Web References\MBAReference\getTopping.disco" />
     <None Include="Web References\get_ws_dtacReference\get_ws_dtac.disco" />
-    <Content Include="Web.config" />
+    <None Include="Web References\getmypsb\getmypsb.disco" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
@@ -96,6 +239,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="dbAccess.cs" />
+    <Compile Include="getmypsb_wcf\DataContract_getmypsb_wcf.cs" />
+    <Compile Include="getmypsb_wcf\RequestData_getmypsb_wcf.cs" />
     <Compile Include="get_ws_dtac_wcf\DataContract_get_ws_dtac.cs" />
     <Compile Include="get_ws_dtac_wcf\RequestData_get_ws_dtac.cs" />
     <Compile Include="MBA\DataContract_MBA.cs" />
@@ -112,6 +257,11 @@
     </Compile>
     <Compile Include="IService1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Web References\getmypsb\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
     <Compile Include="Web References\get_ws_dtacReference\Reference.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -133,6 +283,17 @@
     <WebReferences Include="Web References\" />
   </ItemGroup>
   <ItemGroup>
+    <WebReferenceUrl Include="https://demo.paysbuy.com/psb_ws/getmypsb.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\getmypsb\</RelPath>
+      <UpdateFromURL>https://demo.paysbuy.com/psb_ws/getmypsb.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>WcfConnectPaysbuy_getmypsb_getMyPSB</CachedSettingsPropName>
+    </WebReferenceUrl>
     <WebReferenceUrl Include="https://demo.paysbuy.com/psb_ws/getTopping.asmx">
       <UrlBehavior>Dynamic</UrlBehavior>
       <RelPath>Web References\MBAReference\</RelPath>

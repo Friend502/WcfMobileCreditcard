@@ -8,6 +8,7 @@ using System.Text;
 using WcfConnectPaysbuy.MBA;
 using WcfConnectPaysbuy.MWA;
 using WcfConnectPaysbuy.get_ws_dtac_wcf;
+using WcfConnectPaysbuy.getmypsb_wcf;
 
 namespace WcfConnectPaysbuy
 {
@@ -33,6 +34,9 @@ namespace WcfConnectPaysbuy
 
         [OperationContract]
         ResponseData_get_ws_dtac_confirm postpaid_request_confirm(RequestData_get_ws_dtac_confirm obj);
+
+        [OperationContract]
+        ResponseData_getmypsb_wcf InsertMypsbTransaction(RequestData_getmypsb_wcf obj);
         // TODO: Add your service operations here
     }
 

@@ -42,5 +42,15 @@ namespace WcfConnectPaysbuy.Properties {
                 return ((string)(this["WcfConnectPaysbuy_get_ws_dtacReference_get_ws_dtac"]));
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.WebServiceUrl)]
+        [global::System.Configuration.DefaultSettingValueAttribute("https://demo.paysbuy.com/psb_ws/getmypsb.asmx")]
+        public string WcfConnectPaysbuy_getmypsb_getMyPSB {
+            get {
+                return ((string)(this["WcfConnectPaysbuy_getmypsb_getMyPSB"]));
+            }
+        }
     }
 }

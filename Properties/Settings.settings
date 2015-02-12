@@ -8,5 +8,8 @@
     <Setting Name="WcfConnectPaysbuy_get_ws_dtacReference_get_ws_dtac" Type="(Web Service URL)" Scope="Application">
       <Value Profile="(Default)">https://demo.paysbuy.com/psb_ws/get_ws_dtac.asmx</Value>
     </Setting>
+    <Setting Name="WcfConnectPaysbuy_getmypsb_getMyPSB" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://demo.paysbuy.com/psb_ws/getmypsb.asmx</Value>
+    </Setting>
   </Settings>
 </SettingsFile>

@@ -2,3 +2,4 @@ C:\Users\Boom\Documents\ProjectByDtac\Paysbuy_Security\WCF\WcfConnectPaysbuy\Wcf
 C:\Users\Boom\Documents\ProjectByDtac\Paysbuy_Security\WCF\WcfConnectPaysbuy\WcfConnectPaysbuy\bin\WcfConnectPaysbuy.pdb
 C:\Users\Boom\Documents\ProjectByDtac\Paysbuy_Security\WCF\WcfConnectPaysbuy\WcfConnectPaysbuy\obj\Debug\WcfConnectPaysbuy.dll
 C:\Users\Boom\Documents\ProjectByDtac\Paysbuy_Security\WCF\WcfConnectPaysbuy\WcfConnectPaysbuy\obj\Debug\WcfConnectPaysbuy.pdb
+C:\Users\Boom\Documents\ProjectByDtac\Paysbuy_Security\WCF\WcfConnectPaysbuy\WcfConnectPaysbuy\obj\Debug\WcfConnectPaysbuy.csprojResolveAssemblyReference.cache
